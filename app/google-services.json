@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444148178559",
+    "project_id": "login-register-252af",
+    "storage_bucket": "login-register-252af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444148178559:android:8f0e7697a20d6754df294a",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ__EMxWpRIbN8QBnnbSIFUiS09uWMAio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
